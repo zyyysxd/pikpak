@@ -8,6 +8,8 @@ export const proxy = [
   'https://dns.firmant.me',
   'https://pikpak.yang-s.online',
   'https://pikpak.520936.xyz',
+  'https://f.nxcloud.uk',
+  'https://pikpak-api.go-back.cf',
 ]
 
-export const version = '1.25.2'
+export const version = '1.25.3'
