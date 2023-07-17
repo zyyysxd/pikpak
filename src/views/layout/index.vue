@@ -76,8 +76,8 @@
       </template>
       <n-input placeholder="会员码" v-model:value="code"></n-input>
        <p>
-         目前价格：PikPak体验会员年卡 188 元，正式月卡 32 元，正式年卡 320 元，正式三年卡 699 元</br>
-         提醒：体验卡每账号只能购买使用一次,正式卡可无限叠加。
+         <a>目前价格：PikPak体验会员年卡 188 元，正式月卡 32 元，正式年卡 320 元，正式三年卡 699 元<br>
+         提醒：体验卡每账号只能购买使用一次,正式卡可无限叠加。</a>
       </p>
       <template #action>
         <n-button :block="true" type="primary" :disabled="!code" @click="postCode">添加</n-button>
