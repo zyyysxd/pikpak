@@ -5,7 +5,6 @@ export const proxy = [
   'https://cc123.cf',
   'https://cf-api.xswd.cf',
   'https://wkr.btstream.net',
-  'https://dns.firmant.me',
   'https://pikpak.yang-s.online',
   'https://pikpak.520936.xyz',
   'https://pikpak-api.go-back.cf',
