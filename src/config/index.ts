@@ -10,4 +10,4 @@ export const proxy = [
   'https://pikpak-api.go-back.cf',
 ]
 
-export const version = '1.25.3'
+export const version = '1.25.4'
