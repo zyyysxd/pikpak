@@ -7,7 +7,6 @@ export const proxy = [
   'https://wkr.btstream.net',
   'https://pikpak.yang-s.online',
   'https://pikpak.520936.xyz',
-  'https://pikpak-api.go-back.cf',
 ]
 
-export const version = '1.25.4'
+export const version = '1.25.5'
