@@ -3,4 +3,4 @@ export const proxy = [
   'https://pikpak.tjsky.top'
 ]
 
-export const version = '1.26.2'
+export const version = '1.27.1'
